@@ -48,4 +48,4 @@ The design was verified through simulation, and the expected output was observed
 ## Author
 
 **sneha pawar**  
-Electronics and Telecommunication Engineering
+
